@@ -1,0 +1,2497 @@
+[
+  {
+    "artist": "Marvin Gaye",
+    "album": "What's Going On",
+    "position": 1
+  },
+  {
+    "artist": "The Beach Boys",
+    "album": "Pet Sounds",
+    "position": 2
+  },
+  {
+    "artist": "Joni Mitchell",
+    "album": "Blue",
+    "position": 3
+  },
+  {
+    "artist": "Stevie Wonder",
+    "album": "Songs in the Key of Life",
+    "position": 4
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Abbey Road",
+    "position": 5
+  },
+  {
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "position": 6
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "album": "Rumours",
+    "position": 7
+  },
+  {
+    "artist": "Prince and the Revolution",
+    "album": "Purple Rain",
+    "position": 8
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "position": 9
+  },
+  {
+    "artist": "Lauryn Hill",
+    "album": "The Miseducation of Lauryn Hill",
+    "position": 10
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Revolver",
+    "position": 11
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "position": 12
+  },
+  {
+    "artist": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "position": 13
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Exile on Main St.",
+    "position": 14
+  },
+  {
+    "artist": "Public Enemy",
+    "album": "It Takes a Nation of Millions to Hold Us Back",
+    "position": 15
+  },
+  {
+    "artist": "The Clash",
+    "album": "London Calling",
+    "position": 16
+  },
+  {
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "position": 17
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "Highway 61 Revisited",
+    "position": 18
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp a Butterfly",
+    "position": 19
+  },
+  {
+    "artist": "Radiohead",
+    "album": "Kid A",
+    "position": 20
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "album": "Born to Run",
+    "position": 21
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "album": "Ready to Die",
+    "position": 22
+  },
+  {
+    "artist": "The Velvet Underground",
+    "album": "The Velvet Underground & Nico",
+    "position": 23
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "position": 24
+  },
+  {
+    "artist": "Carole King",
+    "album": "Tapestry",
+    "position": 25
+  },
+  {
+    "artist": "Patti Smith",
+    "album": "Horses",
+    "position": 26
+  },
+  {
+    "artist": "Wu-Tang Clan",
+    "album": "Enter the Wu-Tang (36 Chambers)",
+    "position": 27
+  },
+  {
+    "artist": "D'Angelo",
+    "album": "Voodoo",
+    "position": 28
+  },
+  {
+    "artist": "The Beatles",
+    "album": "The Beatles",
+    "position": 29
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "album": "Are You Experienced",
+    "position": 30
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Kind of Blue",
+    "position": 31
+  },
+  {
+    "artist": "Beyoncé",
+    "album": "Lemonade",
+    "position": 32
+  },
+  {
+    "artist": "Amy Winehouse",
+    "album": "Back to Black",
+    "position": 33
+  },
+  {
+    "artist": "Stevie Wonder",
+    "album": "Innervisions",
+    "position": 34
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Rubber Soul",
+    "position": 35
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Off the Wall",
+    "position": 36
+  },
+  {
+    "artist": "Dr. Dre",
+    "album": "The Chronic",
+    "position": 37
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "Blonde on Blonde",
+    "position": 38
+  },
+  {
+    "artist": "Talking Heads",
+    "album": "Remain in Light",
+    "position": 39
+  },
+  {
+    "artist": "David Bowie",
+    "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    "position": 40
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Let It Bleed",
+    "position": 41
+  },
+  {
+    "artist": "Radiohead",
+    "album": "OK Computer",
+    "position": 42
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "album": "The Low End Theory",
+    "position": 43
+  },
+  {
+    "artist": "Nas",
+    "album": "Illmatic",
+    "position": 44
+  },
+  {
+    "artist": "Prince",
+    "album": "Sign o' the Times",
+    "position": 45
+  },
+  {
+    "artist": "Paul Simon",
+    "album": "Graceland",
+    "position": 46
+  },
+  {
+    "artist": "Ramones",
+    "album": "Ramones",
+    "position": 47
+  },
+  {
+    "artist": "Bob Marley and the Wailers",
+    "album": "Exodus",
+    "position": 48
+  },
+  {
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "position": 49
+  },
+  {
+    "artist": "Jay-Z",
+    "album": "The Blueprint",
+    "position": 50
+  },
+  {
+    "artist": "Chuck Berry",
+    "album": "The Great Twenty-Eight",
+    "position": 51
+  },
+  {
+    "artist": "David Bowie",
+    "album": "Station to Station",
+    "position": 52
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "album": "Electric Ladyland",
+    "position": 53
+  },
+  {
+    "artist": "James Brown",
+    "album": "Star Time",
+    "position": 54
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Dark Side of the Moon",
+    "position": 55
+  },
+  {
+    "artist": "Liz Phair",
+    "album": "Exile in Guyville",
+    "position": 56
+  },
+  {
+    "artist": "The Band",
+    "album": "The Band",
+    "position": 57
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "position": 58
+  },
+  {
+    "artist": "Stevie Wonder",
+    "album": "Talking Book",
+    "position": 59
+  },
+  {
+    "artist": "Van Morrison",
+    "album": "Astral Weeks",
+    "position": 60
+  },
+  {
+    "artist": "Eric B. & Rakim",
+    "album": "Paid in Full",
+    "position": 61
+  },
+  {
+    "artist": "Guns N' Roses",
+    "album": "Appetite for Destruction",
+    "position": 62
+  },
+  {
+    "artist": "Steely Dan",
+    "album": "Aja",
+    "position": 63
+  },
+  {
+    "artist": "Outkast",
+    "album": "Stankonia",
+    "position": 64
+  },
+  {
+    "artist": "James Brown",
+    "album": "Live at the Apollo",
+    "position": 65
+  },
+  {
+    "artist": "John Coltrane",
+    "album": "A Love Supreme",
+    "position": 66
+  },
+  {
+    "artist": "Jay-Z",
+    "album": "Reasonable Doubt",
+    "position": 67
+  },
+  {
+    "artist": "Kate Bush",
+    "album": "Hounds of Love",
+    "position": 68
+  },
+  {
+    "artist": "Alanis Morissette",
+    "album": "Jagged Little Pill",
+    "position": 69
+  },
+  {
+    "artist": "N.W.A",
+    "album": "Straight Outta Compton",
+    "position": 70
+  },
+  {
+    "artist": "Beyonce",
+    "album": "Renaissance",
+    "position": 71
+  },
+  {
+    "artist": "Neil Young",
+    "album": "Harvest",
+    "position": 72
+  },
+  {
+    "artist": "My Bloody Valentine",
+    "album": "Loveless",
+    "position": 73
+  },
+  {
+    "artist": "Kanye West",
+    "album": "The College Dropout",
+    "position": 74
+  },
+  {
+    "artist": "Aretha Franklin",
+    "album": "Lady Soul",
+    "position": 75
+  },
+  {
+    "artist": "Curtis Mayfield",
+    "album": "Super Fly",
+    "position": 76
+  },
+  {
+    "artist": "The Who",
+    "album": "Who's Next",
+    "position": 77
+  },
+  {
+    "artist": "Elvis Presley",
+    "album": "The Sun Sessions",
+    "position": 78
+  },
+  {
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "position": 79
+  },
+  {
+    "artist": "Sex Pistols",
+    "album": "Never Mind the Bollocks, Here's the Sex Pistols",
+    "position": 80
+  },
+  {
+    "artist": "Beyoncé",
+    "album": "Beyoncé",
+    "position": 81
+  },
+  {
+    "artist": "Sly and the Family Stone",
+    "album": "There's a Riot Goin' On",
+    "position": 82
+  },
+  {
+    "artist": "Dusty Springfield",
+    "album": "Dusty in Memphis",
+    "position": 83
+  },
+  {
+    "artist": "AC/DC",
+    "album": "Back in Black",
+    "position": 84
+  },
+  {
+    "artist": "John Lennon",
+    "album": "John Lennon/Plastic Ono Band",
+    "position": 85
+  },
+  {
+    "artist": "The Doors",
+    "album": "The Doors",
+    "position": 86
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Bitches Brew",
+    "position": 87
+  },
+  {
+    "artist": "David Bowie",
+    "album": "Hunky Dory",
+    "position": 88
+  },
+  {
+    "artist": "Erykah Badu",
+    "album": "Baduizm",
+    "position": 89
+  },
+  {
+    "artist": "Neil Young",
+    "album": "After the Gold Rush",
+    "position": 90
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "album": "Darkness on the Edge of Town",
+    "position": 91
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "album": "Axis: Bold as Love",
+    "position": 92
+  },
+  {
+    "artist": "Missy Elliott",
+    "album": "Supa Dupa Fly",
+    "position": 93
+  },
+  {
+    "artist": "The Stooges",
+    "album": "Fun House",
+    "position": 94
+  },
+  {
+    "artist": "Drake",
+    "album": "Take Care",
+    "position": 95
+  },
+  {
+    "artist": "R.E.M.",
+    "album": "Automatic for the People",
+    "position": 96
+  },
+  {
+    "artist": "Metallica",
+    "album": "Master of Puppets",
+    "position": 97
+  },
+  {
+    "artist": "Lucinda Williams",
+    "album": "Car Wheels on a Gravel Road",
+    "position": 98
+  },
+  {
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "position": 99
+  },
+  {
+    "artist": "The Band",
+    "album": "Music from Big Pink",
+    "position": 100
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin",
+    "position": 101
+  },
+  {
+    "artist": "The Clash",
+    "album": "The Clash",
+    "position": 102
+  },
+  {
+    "artist": "De La Soul",
+    "album": "3 Feet High and Rising",
+    "position": 103
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Sticky Fingers",
+    "position": 104
+  },
+  {
+    "artist": "The Allman Brothers Band",
+    "album": "At Fillmore East",
+    "position": 105
+  },
+  {
+    "artist": "Hole",
+    "album": "Live Through This",
+    "position": 106
+  },
+  {
+    "artist": "Television",
+    "album": "Marquee Moon",
+    "position": 107
+  },
+  {
+    "artist": "Fiona Apple",
+    "album": "When the Pawn...",
+    "position": 108
+  },
+  {
+    "artist": "Joni Mitchell",
+    "album": "Court and Spark",
+    "position": 110
+  },
+  {
+    "artist": "Janet Jackson",
+    "album": "Control",
+    "position": 111
+  },
+  {
+    "artist": "Elton John",
+    "album": "Goodbye Yellow Brick Road",
+    "position": 112
+  },
+  {
+    "artist": "The Smiths",
+    "album": "The Queen Is Dead",
+    "position": 113
+  },
+  {
+    "artist": "The Strokes",
+    "album": "Is This It",
+    "position": 114
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "album": "Good Kid, M.A.A.D City",
+    "position": 115
+  },
+  {
+    "artist": "The Cure",
+    "album": "Disintegration",
+    "position": 116
+  },
+  {
+    "artist": "Kanye West",
+    "album": "Late Registration",
+    "position": 117
+  },
+  {
+    "artist": "Eagles",
+    "album": "Hotel California",
+    "position": 118
+  },
+  {
+    "artist": "Sly and the Family Stone",
+    "album": "Stand!",
+    "position": 119
+  },
+  {
+    "artist": "Van Morrison",
+    "album": "Moondance",
+    "position": 120
+  },
+  {
+    "artist": "Elvis Costello",
+    "album": "This Year's Model",
+    "position": 121
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "album": "The Downward Spiral",
+    "position": 122
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin II",
+    "position": 123
+  },
+  {
+    "artist": "U2",
+    "album": "Achtung Baby",
+    "position": 124
+  },
+  {
+    "artist": "Beastie Boys",
+    "album": "Paul's Boutique",
+    "position": 125
+  },
+  {
+    "artist": "Mary J. Blige",
+    "album": "My Life",
+    "position": 126
+  },
+  {
+    "artist": "Ray Charles",
+    "album": "Modern Sounds in Country and Western Music",
+    "position": 127
+  },
+  {
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "position": 128
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Wall",
+    "position": 129
+  },
+  {
+    "artist": "Prince",
+    "album": "1999",
+    "position": 130
+  },
+  {
+    "artist": "Portishead",
+    "album": "Dummy",
+    "position": 131
+  },
+  {
+    "artist": "Hank Williams",
+    "album": "40 Greatest Hits",
+    "position": 132
+  },
+  {
+    "artist": "Joni Mitchell",
+    "album": "Hejira",
+    "position": 133
+  },
+  {
+    "artist": "Fugees",
+    "album": "The Score",
+    "position": 134
+  },
+  {
+    "artist": "U2",
+    "album": "The Joshua Tree",
+    "position": 135
+  },
+  {
+    "artist": "Funkadelic",
+    "album": "Maggot Brain",
+    "position": 136
+  },
+  {
+    "artist": "Adele",
+    "album": "21",
+    "position": 137
+  },
+  {
+    "artist": "Madonna",
+    "album": "The Immaculate Collection",
+    "position": 138
+  },
+  {
+    "artist": "Black Sabbath",
+    "album": "Paranoid",
+    "position": 139
+  },
+  {
+    "artist": "Bob Marley and the Wailers",
+    "album": "Catch a Fire",
+    "position": 140
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "position": 141
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "album": "Born in the U.S.A.",
+    "position": 142
+  },
+  {
+    "artist": "The Velvet Underground",
+    "album": "The Velvet Underground",
+    "position": 143
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Physical Graffiti",
+    "position": 144
+  },
+  {
+    "artist": "Eminem",
+    "album": "The Marshall Mathers LP",
+    "position": 145
+  },
+  {
+    "artist": "Blondie",
+    "album": "Parallel Lines",
+    "position": 146
+  },
+  {
+    "artist": "Jeff Buckley",
+    "album": "Grace",
+    "position": 147
+  },
+  {
+    "artist": "Frank Ocean",
+    "album": "Channel Orange",
+    "position": 148
+  },
+  {
+    "artist": "John Prine",
+    "album": "John Prine",
+    "position": 149
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "album": "Nebraska",
+    "position": 150
+  },
+  {
+    "artist": "George Michael",
+    "album": "Faith",
+    "position": 151
+  },
+  {
+    "artist": "The Pretenders",
+    "album": "Pretenders",
+    "position": 152
+  },
+  {
+    "artist": "PJ Harvey",
+    "album": "Rid of Me",
+    "position": 153
+  },
+  {
+    "artist": "Aretha Franklin",
+    "album": "Amazing Grace",
+    "position": 154
+  },
+  {
+    "artist": "Jay-Z",
+    "album": "The Black Album",
+    "position": 155
+  },
+  {
+    "artist": "The Replacements",
+    "album": "Let It Be",
+    "position": 156
+  },
+  {
+    "artist": "Oasis",
+    "album": "(What's the Story) Morning Glory?",
+    "position": 157
+  },
+  {
+    "artist": "Erykah Badu",
+    "album": "Mama's Gun",
+    "position": 158
+  },
+  {
+    "artist": "The Police",
+    "album": "Synchronicity",
+    "position": 159
+  },
+  {
+    "artist": "Pearl Jam",
+    "album": "Ten",
+    "position": 160
+  },
+  {
+    "artist": "Crosby, Stills & Nash",
+    "album": "Crosby, Stills & Nash",
+    "position": 161
+  },
+  {
+    "artist": "Pulp",
+    "album": "Different Class",
+    "position": 162
+  },
+  {
+    "artist": "Various artists",
+    "album": "Saturday Night Fever",
+    "position": 163
+  },
+  {
+    "artist": "Johnny Cash",
+    "album": "At Folsom Prison",
+    "position": 164
+  },
+  {
+    "artist": "R.E.M.",
+    "album": "Murmur",
+    "position": 165
+  },
+  {
+    "artist": "Buddy Holly",
+    "album": "20 Golden Greats",
+    "position": 166
+  },
+  {
+    "artist": "Depeche Mode",
+    "album": "Violator",
+    "position": 167
+  },
+  {
+    "artist": "Steely Dan",
+    "album": "Can't Buy a Thrill",
+    "position": 168
+  },
+  {
+    "artist": "Billy Joel",
+    "album": "The Stranger",
+    "position": 169
+  },
+  {
+    "artist": "Taylor Swift",
+    "album": "Folklore",
+    "position": 170
+  },
+  {
+    "artist": "Sonic Youth",
+    "album": "Daydream Nation",
+    "position": 171
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "album": "Bridge over Troubled Water",
+    "position": 172
+  },
+  {
+    "artist": "Nirvana",
+    "album": "In Utero",
+    "position": 173
+  },
+  {
+    "artist": "Various artists",
+    "album": "The Harder They Come",
+    "position": 174
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "album": "Damn",
+    "position": 175
+  },
+  {
+    "artist": "Public Enemy",
+    "album": "Fear of a Black Planet",
+    "position": 176
+  },
+  {
+    "artist": "Rod Stewart",
+    "album": "Every Picture Tells a Story",
+    "position": 177
+  },
+  {
+    "artist": "Otis Redding",
+    "album": "Otis Blue/Otis Redding Sings Soul",
+    "position": 178
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "album": "Life After Death",
+    "position": 179
+  },
+  {
+    "artist": "Love",
+    "album": "Forever Changes",
+    "position": 180
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "Bringing It All Back Home",
+    "position": 181
+  },
+  {
+    "artist": "James Taylor",
+    "album": "Sweet Baby James",
+    "position": 182
+  },
+  {
+    "artist": "D'Angelo",
+    "album": "Brown Sugar",
+    "position": 183
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "album": "She's So Unusual",
+    "position": 184
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Beggars Banquet",
+    "position": 185
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "album": "Blood Sugar Sex Magik",
+    "position": 186
+  },
+  {
+    "artist": "Ice Cube",
+    "album": "AmeriKKKa's Most Wanted",
+    "position": 187
+  },
+  {
+    "artist": "T. Rex",
+    "album": "Electric Warrior",
+    "position": 188
+  },
+  {
+    "artist": "Sleater-Kinney",
+    "album": "Dig Me Out",
+    "position": 189
+  },
+  {
+    "artist": "The Who",
+    "album": "Tommy",
+    "position": 190
+  },
+  {
+    "artist": "Etta James",
+    "album": "At Last!",
+    "position": 191
+  },
+  {
+    "artist": "Beastie Boys",
+    "album": "Licensed to Ill",
+    "position": 192
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "album": "Willy and the Poor Boys",
+    "position": 193
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Bad",
+    "position": 194
+  },
+  {
+    "artist": "Leonard Cohen",
+    "album": "Songs of Leonard Cohen",
+    "position": 195
+  },
+  {
+    "artist": "Robyn",
+    "album": "Body Talk",
+    "position": 196
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Meet the Beatles!",
+    "position": 197
+  },
+  {
+    "artist": "The B-52's",
+    "album": "The B-52's",
+    "position": 198
+  },
+  {
+    "artist": "Pavement",
+    "album": "Slanted and Enchanted",
+    "position": 199
+  },
+  {
+    "artist": "Sade",
+    "album": "Diamond Life",
+    "position": 200
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "album": "Midnight Marauders",
+    "position": 201
+  },
+  {
+    "artist": "Björk",
+    "album": "Homogenic",
+    "position": 202
+  },
+  {
+    "artist": "Nick Drake",
+    "album": "Pink Moon",
+    "position": 203
+  },
+  {
+    "artist": "Kanye West",
+    "album": "Graduation",
+    "position": 204
+  },
+  {
+    "artist": "Cat Stevens",
+    "album": "Tea for the Tillerman",
+    "position": 205
+  },
+  {
+    "artist": "David Bowie",
+    "album": "Low",
+    "position": 206
+  },
+  {
+    "artist": "Eagles",
+    "album": "Eagles",
+    "position": 207
+  },
+  {
+    "artist": "Lil Wayne",
+    "album": "Tha Carter III",
+    "position": 208
+  },
+  {
+    "artist": "Run-DMC",
+    "album": "Raising Hell",
+    "position": 209
+  },
+  {
+    "artist": "Ray Charles",
+    "album": "The Birth of Soul",
+    "position": 210
+  },
+  {
+    "artist": "Joy Division",
+    "album": "Unknown Pleasures",
+    "position": 211
+  },
+  {
+    "artist": "Nina Simone",
+    "album": "Wild Is the Wind",
+    "position": 212
+  },
+  {
+    "artist": "Fiona Apple",
+    "album": "The Idler Wheel...",
+    "position": 213
+  },
+  {
+    "artist": "Tom Petty",
+    "album": "Wildflowers",
+    "position": 214
+  },
+  {
+    "artist": "Grateful Dead",
+    "album": "American Beauty",
+    "position": 215
+  },
+  {
+    "artist": "Elliott Smith",
+    "album": "Either/Or",
+    "position": 216
+  },
+  {
+    "artist": "Oasis",
+    "album": "Definitely Maybe",
+    "position": 217
+  },
+  {
+    "artist": "TLC",
+    "album": "CrazySexyCool",
+    "position": 218
+  },
+  {
+    "artist": "Raekwon",
+    "album": "Only Built 4 Cuban Linx...",
+    "position": 219
+  },
+  {
+    "artist": "Crosby, Stills, Nash & Young",
+    "album": "Déjà Vu",
+    "position": 220
+  },
+  {
+    "artist": "Rage Against the Machine",
+    "album": "Rage Against the Machine",
+    "position": 221
+  },
+  {
+    "artist": "Madonna",
+    "album": "Ray of Light",
+    "position": 222
+  },
+  {
+    "artist": "John Lennon",
+    "album": "Imagine",
+    "position": 223
+  },
+  {
+    "artist": "Dixie Chicks",
+    "album": "Fly",
+    "position": 224
+  },
+  {
+    "artist": "Wilco",
+    "album": "Yankee Hotel Foxtrot",
+    "position": 225
+  },
+  {
+    "artist": "Derek and the Dominos",
+    "album": "Layla and Other Assorted Love Songs",
+    "position": 226
+  },
+  {
+    "artist": "Little Richard",
+    "album": "Here's Little Richard",
+    "position": 227
+  },
+  {
+    "artist": "De La Soul",
+    "album": "De La Soul Is Dead",
+    "position": 228
+  },
+  {
+    "artist": "Patsy Cline",
+    "album": "The Ultimate Collection",
+    "position": 229
+  },
+  {
+    "artist": "Rihanna",
+    "album": "Anti",
+    "position": 230
+  },
+  {
+    "artist": "Tom Petty and the Heartbreakers",
+    "album": "Damn the Torpedoes",
+    "position": 231
+  },
+  {
+    "artist": "John Coltrane",
+    "album": "Giant Steps",
+    "position": 232
+  },
+  {
+    "artist": "Tori Amos",
+    "album": "Little Earthquakes",
+    "position": 233
+  },
+  {
+    "artist": "Black Sabbath",
+    "album": "Master of Reality",
+    "position": 234
+  },
+  {
+    "artist": "Metallica",
+    "album": "Metallica",
+    "position": 235
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Discovery",
+    "position": 236
+  },
+  {
+    "artist": "Willie Nelson",
+    "album": "Red Headed Stranger",
+    "position": 237
+  },
+  {
+    "artist": "Kraftwerk",
+    "album": "Trans-Europe Express",
+    "position": 238
+  },
+  {
+    "artist": "Boogie Down Productions",
+    "album": "Criminal Minded",
+    "position": 239
+  },
+  {
+    "artist": "Sam Cooke",
+    "album": "Live at the Harlem Square Club, 1963",
+    "position": 240
+  },
+  {
+    "artist": "Massive Attack",
+    "album": "Blue Lines",
+    "position": 241
+  },
+  {
+    "artist": "The Velvet Underground",
+    "album": "Loaded",
+    "position": 242
+  },
+  {
+    "artist": "The Zombies",
+    "album": "Odessey and Oracle",
+    "position": 243
+  },
+  {
+    "artist": "Kanye West",
+    "album": "808s & Heartbreak",
+    "position": 244
+  },
+  {
+    "artist": "Cocteau Twins",
+    "album": "Heaven or Las Vegas",
+    "position": 245
+  },
+  {
+    "artist": "LL Cool J",
+    "album": "Mama Said Knock You Out",
+    "position": 246
+  },
+  {
+    "artist": "Sade",
+    "album": "Love Deluxe",
+    "position": 247
+  },
+  {
+    "artist": "Green Day",
+    "album": "American Idiot",
+    "position": 248
+  },
+  {
+    "artist": "Whitney Houston",
+    "album": "Whitney Houston",
+    "position": 249
+  },
+  {
+    "artist": "Buzzcocks",
+    "album": "Singles Going Steady",
+    "position": 250
+  },
+  {
+    "artist": "Elton John",
+    "album": "Honky Château",
+    "position": 251
+  },
+  {
+    "artist": "Devo",
+    "album": "Q: Are We Not Men? A: We Are Devo!",
+    "position": 252
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "The Piper at the Gates of Dawn",
+    "position": 253
+  },
+  {
+    "artist": "Herbie Hancock",
+    "album": "Head Hunters",
+    "position": 254
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Freewheelin' Bob Dylan",
+    "position": 255
+  },
+  {
+    "artist": "Tracy Chapman",
+    "album": "Tracy Chapman",
+    "position": 256
+  },
+  {
+    "artist": "Dolly Parton",
+    "album": "Coat of Many Colors",
+    "position": 257
+  },
+  {
+    "artist": "Joni Mitchell",
+    "album": "The Hissing of Summer Lawns",
+    "position": 258
+  },
+  {
+    "artist": "Janis Joplin",
+    "album": "Pearl",
+    "position": 259
+  },
+  {
+    "artist": "The Slits",
+    "album": "Cut",
+    "position": 260
+  },
+  {
+    "artist": "Beastie Boys",
+    "album": "Check Your Head",
+    "position": 261
+  },
+  {
+    "artist": "New Order",
+    "album": "Power, Corruption & Lies",
+    "position": 262
+  },
+  {
+    "artist": "The Beatles",
+    "album": "A Hard Day's Night",
+    "position": 263
+  },
+  {
+    "artist": "Pink Floyd",
+    "album": "Wish You Were Here",
+    "position": 264
+  },
+  {
+    "artist": "Pavement",
+    "album": "Wowee Zowee",
+    "position": 265
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Help!",
+    "position": 266
+  },
+  {
+    "artist": "Minutemen",
+    "album": "Double Nickels on the Dime",
+    "position": 267
+  },
+  {
+    "artist": "Randy Newman",
+    "album": "Sail Away",
+    "position": 268
+  },
+  {
+    "artist": "Kanye West",
+    "album": "Yeezus",
+    "position": 269
+  },
+  {
+    "artist": "Kacey Musgraves",
+    "album": "Golden Hour",
+    "position": 270
+  },
+  {
+    "artist": "Mary J. Blige",
+    "album": "What's the 411?",
+    "position": 271
+  },
+  {
+    "artist": "The Velvet Underground",
+    "album": "White Light/White Heat",
+    "position": 272
+  },
+  {
+    "artist": "Gang of Four",
+    "album": "Entertainment!",
+    "position": 273
+  },
+  {
+    "artist": "The Byrds",
+    "album": "Sweetheart of the Rodeo",
+    "position": 274
+  },
+  {
+    "artist": "Curtis Mayfield",
+    "album": "Curtis",
+    "position": 275
+  },
+  {
+    "artist": "Radiohead",
+    "album": "The Bends",
+    "position": 276
+  },
+  {
+    "artist": "Alicia Keys",
+    "album": "The Diary of Alicia Keys",
+    "position": 277
+  },
+  {
+    "artist": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "position": 278
+  },
+  {
+    "artist": "Nirvana",
+    "album": "MTV Unplugged in New York",
+    "position": 279
+  },
+  {
+    "artist": "50 Cent",
+    "album": "Get Rich or Die Tryin'",
+    "position": 280
+  },
+  {
+    "artist": "Harry Nilsson",
+    "album": "Nilsson Schmilsson",
+    "position": 281
+  },
+  {
+    "artist": "Frank Sinatra",
+    "album": "In the Wee Small Hours",
+    "position": 282
+  },
+  {
+    "artist": "Donna Summer",
+    "album": "Bad Girls",
+    "position": 283
+  },
+  {
+    "artist": "Merle Haggard",
+    "album": "Down Every Road 1962–1994",
+    "position": 284
+  },
+  {
+    "artist": "Big Star",
+    "album": "Third/Sister Lovers",
+    "position": 285
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "album": "Californication",
+    "position": 286
+  },
+  {
+    "artist": "The Byrds",
+    "album": "Mr. Tambourine Man",
+    "position": 287
+  },
+  {
+    "artist": "The Modern Lovers",
+    "album": "The Modern Lovers",
+    "position": 288
+  },
+  {
+    "artist": "Björk",
+    "album": "Post",
+    "position": 289
+  },
+  {
+    "artist": "Outkast",
+    "album": "Speakerboxxx/The Love Below",
+    "position": 290
+  },
+  {
+    "artist": "Destiny's Child",
+    "album": "The Writing's on the Wall",
+    "position": 291
+  },
+  {
+    "artist": "Van Halen",
+    "album": "Van Halen",
+    "position": 292
+  },
+  {
+    "artist": "The Breeders",
+    "album": "Last Splash",
+    "position": 293
+  },
+  {
+    "artist": "Weezer",
+    "album": "Weezer",
+    "position": 294
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Random Access Memories",
+    "position": 295
+  },
+  {
+    "artist": "Neil Young and Crazy Horse",
+    "album": "Rust Never Sleeps",
+    "position": 296
+  },
+  {
+    "artist": "Peter Gabriel",
+    "album": "So",
+    "position": 297
+  },
+  {
+    "artist": "Tom Petty",
+    "album": "Full Moon Fever",
+    "position": 298
+  },
+  {
+    "artist": "B.B. King",
+    "album": "Live at the Regal",
+    "position": 299
+  },
+  {
+    "artist": "Shania Twain",
+    "album": "Come On Over",
+    "position": 300
+  },
+  {
+    "artist": "New York Dolls",
+    "album": "New York Dolls",
+    "position": 301
+  },
+  {
+    "artist": "Neil Young",
+    "album": "Tonight's the Night",
+    "position": 302
+  },
+  {
+    "artist": "ABBA",
+    "album": "The Definitive Collection",
+    "position": 303
+  },
+  {
+    "artist": "Bill Withers",
+    "album": "Just as I Am",
+    "position": 304
+  },
+  {
+    "artist": "Kiss",
+    "album": "Alive!",
+    "position": 305
+  },
+  {
+    "artist": "Al Green",
+    "album": "I'm Still in Love with You",
+    "position": 306
+  },
+  {
+    "artist": "Sam Cooke",
+    "album": "Portrait of a Legend: 1951–1964",
+    "position": 307
+  },
+  {
+    "artist": "Brian Eno",
+    "album": "Here Come the Warm Jets",
+    "position": 308
+  },
+  {
+    "artist": "Joy Division",
+    "album": "Closer",
+    "position": 309
+  },
+  {
+    "artist": "Wire",
+    "album": "Pink Flag",
+    "position": 310
+  },
+  {
+    "artist": "Neil Young",
+    "album": "On the Beach",
+    "position": 311
+  },
+  {
+    "artist": "Solange Knowles",
+    "album": "A Seat at the Table",
+    "position": 312
+  },
+  {
+    "artist": "PJ Harvey",
+    "album": "Stories from the City, Stories from the Sea",
+    "position": 313
+  },
+  {
+    "artist": "Aaliyah",
+    "album": "One in a Million",
+    "position": 314
+  },
+  {
+    "artist": "Rosalía",
+    "album": "El Mal Querer",
+    "position": 315
+  },
+  {
+    "artist": "The Who",
+    "album": "The Who Sell Out",
+    "position": 316
+  },
+  {
+    "artist": "Billie Holiday",
+    "album": "Lady in Satin",
+    "position": 317
+  },
+  {
+    "artist": "Janet Jackson",
+    "album": "The Velvet Rope",
+    "position": 318
+  },
+  {
+    "artist": "The Stone Roses",
+    "album": "The Stone Roses",
+    "position": 319
+  },
+  {
+    "artist": "X",
+    "album": "Los Angeles",
+    "position": 320
+  },
+  {
+    "artist": "Lana Del Rey",
+    "album": "Norman Fucking Rockwell!",
+    "position": 321
+  },
+  {
+    "artist": "Elvis Presley",
+    "album": "From Elvis in Memphis",
+    "position": 322
+  },
+  {
+    "artist": "The Clash",
+    "album": "Sandinista!",
+    "position": 323
+  },
+  {
+    "artist": "Coldplay",
+    "album": "A Rush of Blood to the Head",
+    "position": 324
+  },
+  {
+    "artist": "Jerry Lee Lewis",
+    "album": "All Killer, No Filler: The Anthology",
+    "position": 325
+  },
+  {
+    "artist": "Prince",
+    "album": "Dirty Mind",
+    "position": 326
+  },
+  {
+    "artist": "The Who",
+    "album": "Live at Leeds",
+    "position": 327
+  },
+  {
+    "artist": "Vampire Weekend",
+    "album": "Modern Vampires of the City",
+    "position": 328
+  },
+  {
+    "artist": "DJ Shadow",
+    "album": "Endtroducing.....",
+    "position": 329
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Aftermath",
+    "position": 330
+  },
+  {
+    "artist": "Madonna",
+    "album": "Like a Prayer",
+    "position": 331
+  },
+  {
+    "artist": "Elvis Presley",
+    "album": "Elvis Presley",
+    "position": 332
+  },
+  {
+    "artist": "Bill Withers",
+    "album": "Still Bill",
+    "position": 333
+  },
+  {
+    "artist": "Santana",
+    "album": "Abraxas",
+    "position": 334
+  },
+  {
+    "artist": "Bob Dylan and the Band",
+    "album": "The Basement Tapes",
+    "position": 335
+  },
+  {
+    "artist": "Roxy Music",
+    "album": "Avalon",
+    "position": 336
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "John Wesley Harding",
+    "position": 337
+  },
+  {
+    "artist": "Brian Eno",
+    "album": "Another Green World",
+    "position": 338
+  },
+  {
+    "artist": "Janet Jackson",
+    "album": "Janet Jackson's Rhythm Nation 1814",
+    "position": 339
+  },
+  {
+    "artist": "Snoop Doggy Dogg",
+    "album": "Doggystyle",
+    "position": 340
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "album": "Siamese Dream",
+    "position": 341
+  },
+  {
+    "artist": "The Beatles",
+    "album": "Let It Be",
+    "position": 342
+  },
+  {
+    "artist": "Sly and the Family Stone",
+    "album": "Greatest Hits",
+    "position": 343
+  },
+  {
+    "artist": "Toots and the Maytals",
+    "album": "Funky Kingston",
+    "position": 344
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "album": "The Wild, the Innocent & the E Street Shuffle",
+    "position": 345
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "position": 346
+  },
+  {
+    "artist": "GZA",
+    "album": "Liquid Swords",
+    "position": 347
+  },
+  {
+    "artist": "Gillian Welch",
+    "album": "Time (The Revelator)",
+    "position": 348
+  },
+  {
+    "artist": "MC5",
+    "album": "Kick Out the Jams",
+    "position": 349
+  },
+  {
+    "artist": "Stevie Wonder",
+    "album": "Music of My Mind",
+    "position": 350
+  },
+  {
+    "artist": "SZA",
+    "album": "SOS",
+    "position": 351
+  },
+  {
+    "artist": "Eminem",
+    "album": "The Slim Shady LP",
+    "position": 352
+  },
+  {
+    "artist": "The Cars",
+    "album": "The Cars",
+    "position": 353
+  },
+  {
+    "artist": "X-Ray Spex",
+    "album": "Germfree Adolescents",
+    "position": 354
+  },
+  {
+    "artist": "Black Sabbath",
+    "album": "Black Sabbath",
+    "position": 355
+  },
+  {
+    "artist": "Dr. John",
+    "album": "Gris-Gris",
+    "position": 356
+  },
+  {
+    "artist": "Tom Waits",
+    "album": "Rain Dogs",
+    "position": 357
+  },
+  {
+    "artist": "Olivia Rodrigo",
+    "album": "Sour",
+    "position": 358
+  },
+  {
+    "artist": "Big Star",
+    "album": "Radio City",
+    "position": 359
+  },
+  {
+    "artist": "Funkadelic",
+    "album": "One Nation Under a Groove",
+    "position": 360
+  },
+  {
+    "artist": "My Chemical Romance",
+    "album": "The Black Parade",
+    "position": 361
+  },
+  {
+    "artist": "Luther Vandross",
+    "album": "Never Too Much",
+    "position": 362
+  },
+  {
+    "artist": "Parliament",
+    "album": "Mothership Connection",
+    "position": 363
+  },
+  {
+    "artist": "Talking Heads",
+    "album": "More Songs About Buildings and Food",
+    "position": 364
+  },
+  {
+    "artist": "Madvillain",
+    "album": "Madvillainy",
+    "position": 365
+  },
+  {
+    "artist": "Aerosmith",
+    "album": "Rocks",
+    "position": 366
+  },
+  {
+    "artist": "Drake",
+    "album": "If You're Reading This It's Too Late",
+    "position": 367
+  },
+  {
+    "artist": "George Harrison",
+    "album": "All Things Must Pass",
+    "position": 368
+  },
+  {
+    "artist": "Mobb Deep",
+    "album": "The Infamous",
+    "position": 369
+  },
+  {
+    "artist": "Lil Wayne",
+    "album": "Tha Carter II",
+    "position": 370
+  },
+  {
+    "artist": "The Temptations",
+    "album": "Anthology",
+    "position": 371
+  },
+  {
+    "artist": "Big Brother and the Holding Company",
+    "album": "Cheap Thrills",
+    "position": 372
+  },
+  {
+    "artist": "Isaac Hayes",
+    "album": "Hot Buttered Soul",
+    "position": 373
+  },
+  {
+    "artist": "Robert Johnson",
+    "album": "King of the Delta Blues Singers",
+    "position": 374
+  },
+  {
+    "artist": "Green Day",
+    "album": "Dookie",
+    "position": 375
+  },
+  {
+    "artist": "Neutral Milk Hotel",
+    "album": "In the Aeroplane Over the Sea",
+    "position": 376
+  },
+  {
+    "artist": "Yeah Yeah Yeahs",
+    "album": "Fever to Tell",
+    "position": 377
+  },
+  {
+    "artist": "Run-DMC",
+    "album": "Run-D.M.C.",
+    "position": 378
+  },
+  {
+    "artist": "Rush",
+    "album": "Moving Pictures",
+    "position": 379
+  },
+  {
+    "artist": "Charles Mingus",
+    "album": "Mingus Ah Um",
+    "position": 380
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "album": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+    "position": 381
+  },
+  {
+    "artist": "Tame Impala",
+    "album": "Currents",
+    "position": 382
+  },
+  {
+    "artist": "Massive Attack",
+    "album": "Mezzanine",
+    "position": 383
+  },
+  {
+    "artist": "The Kinks",
+    "album": "The Kinks Are the Village Green Preservation Society",
+    "position": 384
+  },
+  {
+    "artist": "Ramones",
+    "album": "Rocket to Russia",
+    "position": 385
+  },
+  {
+    "artist": "J Dilla",
+    "album": "Donuts",
+    "position": 386
+  },
+  {
+    "artist": "Radiohead",
+    "album": "In Rainbows",
+    "position": 387
+  },
+  {
+    "artist": "Aretha Franklin",
+    "album": "Young, Gifted and Black",
+    "position": 388
+  },
+  {
+    "artist": "Mariah Carey",
+    "album": "The Emancipation of Mimi",
+    "position": 389
+  },
+  {
+    "artist": "Pixies",
+    "album": "Surfer Rosa",
+    "position": 390
+  },
+  {
+    "artist": "Kelis",
+    "album": "Kaleidoscope",
+    "position": 391
+  },
+  {
+    "artist": "Ike & Tina Turner",
+    "album": "Proud Mary: The Best of Ike & Tina Turner",
+    "position": 392
+  },
+  {
+    "artist": "Taylor Swift",
+    "album": "1989",
+    "position": 393
+  },
+  {
+    "artist": "Diana Ross",
+    "album": "Diana",
+    "position": 394
+  },
+  {
+    "artist": "D'Angelo and the Vanguard",
+    "album": "Black Messiah",
+    "position": 395
+  },
+  {
+    "artist": "Todd Rundgren",
+    "album": "Something/Anything?",
+    "position": 396
+  },
+  {
+    "artist": "Billie Eilish",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "position": 397
+  },
+  {
+    "artist": "The Raincoats",
+    "album": "The Raincoats",
+    "position": 398
+  },
+  {
+    "artist": "Brian Wilson",
+    "album": "Brian Wilson Presents Smile",
+    "position": 399
+  },
+  {
+    "artist": "The Go-Go's",
+    "album": "Beauty and the Beat",
+    "position": 400
+  },
+  {
+    "artist": "Blondie",
+    "album": "Blondie",
+    "position": 401
+  },
+  {
+    "artist": "Fela Kuti and Africa '70",
+    "album": "Expensive Shit",
+    "position": 402
+  },
+  {
+    "artist": "Ghostface Killah",
+    "album": "Supreme Clientele",
+    "position": 403
+  },
+  {
+    "artist": "Anita Baker",
+    "album": "Rapture",
+    "position": 404
+  },
+  {
+    "artist": "Various artists",
+    "album": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+    "position": 405
+  },
+  {
+    "artist": "The Magnetic Fields",
+    "album": "69 Love Songs",
+    "position": 406
+  },
+  {
+    "artist": "Neil Young",
+    "album": "Everybody Knows This Is Nowhere",
+    "position": 407
+  },
+  {
+    "artist": "Motörhead",
+    "album": "Ace of Spades",
+    "position": 408
+  },
+  {
+    "artist": "Grateful Dead",
+    "album": "Workingman's Dead",
+    "position": 409
+  },
+  {
+    "artist": "The Beach Boys",
+    "album": "Wild Honey",
+    "position": 410
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "Love and Theft",
+    "position": 411
+  },
+  {
+    "artist": "Smokey Robinson",
+    "album": "Going to a Go-Go",
+    "position": 412
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "album": "Cosmo's Factory",
+    "position": 413
+  },
+  {
+    "artist": "Chic",
+    "album": "Risqué",
+    "position": 414
+  },
+  {
+    "artist": "The Meters",
+    "album": "Look-Ka Py Py",
+    "position": 415
+  },
+  {
+    "artist": "The Roots",
+    "album": "Things Fall Apart",
+    "position": 416
+  },
+  {
+    "artist": "Ornette Coleman",
+    "album": "The Shape of Jazz to Come",
+    "position": 417
+  },
+  {
+    "artist": "Dire Straits",
+    "album": "Brothers in Arms",
+    "position": 418
+  },
+  {
+    "artist": "Eric Church",
+    "album": "Chief",
+    "position": 419
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "album": "That's the Way of the World",
+    "position": 420
+  },
+  {
+    "artist": "M.I.A.",
+    "album": "Arular",
+    "position": 421
+  },
+  {
+    "artist": "Marvin Gaye",
+    "album": "Let's Get It On",
+    "position": 422
+  },
+  {
+    "artist": "Yo La Tengo",
+    "album": "I Can Hear the Heart Beating as One",
+    "position": 423
+  },
+  {
+    "artist": "Beck",
+    "album": "Odelay",
+    "position": 424
+  },
+  {
+    "artist": "Paul Simon",
+    "album": "Paul Simon",
+    "position": 425
+  },
+  {
+    "artist": "Lucinda Williams",
+    "album": "Lucinda Williams",
+    "position": 426
+  },
+  {
+    "artist": "Al Green",
+    "album": "Call Me",
+    "position": 427
+  },
+  {
+    "artist": "Hüsker Dü",
+    "album": "New Day Rising",
+    "position": 428
+  },
+  {
+    "artist": "Four Tops",
+    "album": "Reach Out",
+    "position": 429
+  },
+  {
+    "artist": "Bad Bunny",
+    "album": "Un Verano Sin Ti",
+    "position": 430
+  },
+  {
+    "artist": "Los Lobos",
+    "album": "How Will the Wolf Survive?",
+    "position": 431
+  },
+  {
+    "artist": "Usher",
+    "album": "Confessions",
+    "position": 432
+  },
+  {
+    "artist": "LCD Soundsystem",
+    "album": "Sound of Silver",
+    "position": 433
+  },
+  {
+    "artist": "Pavement",
+    "album": "Crooked Rain, Crooked Rain",
+    "position": 434
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "album": "Actually",
+    "position": 435
+  },
+  {
+    "artist": "2Pac",
+    "album": "All Eyez on Me",
+    "position": 436
+  },
+  {
+    "artist": "Gorillaz",
+    "album": "Demon Days",
+    "position": 437
+  },
+  {
+    "artist": "Blur",
+    "album": "Parklife",
+    "position": 438
+  },
+  {
+    "artist": "James Brown",
+    "album": "Sex Machine",
+    "position": 439
+  },
+  {
+    "artist": "Loretta Lynn",
+    "album": "Coal Miner's Daughter",
+    "position": 440
+  },
+  {
+    "artist": "Britney Spears",
+    "album": "Blackout",
+    "position": 441
+  },
+  {
+    "artist": "The Weeknd",
+    "album": "Beauty Behind the Madness",
+    "position": 442
+  },
+  {
+    "artist": "David Bowie",
+    "album": "Scary Monsters (and Super Creeps)",
+    "position": 443
+  },
+  {
+    "artist": "Fiona Apple",
+    "album": "Extraordinary Machine",
+    "position": 444
+  },
+  {
+    "artist": "Yes",
+    "album": "Close to the Edge",
+    "position": 445
+  },
+  {
+    "artist": "Alice Coltrane",
+    "album": "Journey in Satchidananda",
+    "position": 446
+  },
+  {
+    "artist": "Bad Bunny",
+    "album": "X 100pre",
+    "position": 447
+  },
+  {
+    "artist": "Otis Redding",
+    "album": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+    "position": 448
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "position": 449
+  },
+  {
+    "artist": "Paul McCartney and Linda McCartney",
+    "album": "Ram",
+    "position": 450
+  },
+  {
+    "artist": "Roberta Flack",
+    "album": "First Take",
+    "position": 451
+  },
+  {
+    "artist": "The Supremes",
+    "album": "Anthology",
+    "position": 452
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "album": "Pretty Hate Machine",
+    "position": 453
+  },
+  {
+    "artist": "Can",
+    "album": "Ege Bamyası",
+    "position": 454
+  },
+  {
+    "artist": "Bo Diddley",
+    "album": "Bo Diddley/Go Bo Diddley[a]",
+    "position": 455
+  },
+  {
+    "artist": "Al Green",
+    "album": "Al Green's Greatest Hits",
+    "position": 456
+  },
+  {
+    "artist": "Sinéad O'Connor",
+    "album": "I Do Not Want What I Haven't Got",
+    "position": 457
+  },
+  {
+    "artist": "Jason Isbell",
+    "album": "Southeastern",
+    "position": 458
+  },
+  {
+    "artist": "Kid Cudi",
+    "album": "Man on the Moon: The End of Day",
+    "position": 459
+  },
+  {
+    "artist": "Lorde",
+    "album": "Melodrama",
+    "position": 460
+  },
+  {
+    "artist": "Bon Iver",
+    "album": "For Emma, Forever Ago",
+    "position": 461
+  },
+  {
+    "artist": "The Flying Burrito Brothers",
+    "album": "The Gilded Palace of Sin",
+    "position": 462
+  },
+  {
+    "artist": "Laura Nyro",
+    "album": "Eli and the Thirteenth Confession",
+    "position": 463
+  },
+  {
+    "artist": "The Isley Brothers",
+    "album": "3 + 3",
+    "position": 464
+  },
+  {
+    "artist": "King Sunny Adé",
+    "album": "The Best of the Classic Years",
+    "position": 465
+  },
+  {
+    "artist": "Black Uhuru",
+    "album": "Red",
+    "position": 466
+  },
+  {
+    "artist": "Maxwell",
+    "album": "BLACKsummers'night",
+    "position": 467
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Some Girls",
+    "position": 468
+  },
+  {
+    "artist": "Manu Chao",
+    "album": "Clandestino",
+    "position": 469
+  },
+  {
+    "artist": "Juvenile",
+    "album": "400 Degreez",
+    "position": 470
+  },
+  {
+    "artist": "Jefferson Airplane",
+    "album": "Surrealistic Pillow",
+    "position": 471
+  },
+  {
+    "artist": "SZA",
+    "album": "Ctrl",
+    "position": 472
+  },
+  {
+    "artist": "Daddy Yankee",
+    "album": "Barrio Fino",
+    "position": 473
+  },
+  {
+    "artist": "Big Star",
+    "album": "#1 Record",
+    "position": 474
+  },
+  {
+    "artist": "Sheryl Crow",
+    "album": "Sheryl Crow",
+    "position": 475
+  },
+  {
+    "artist": "Sparks",
+    "album": "Kimono My House",
+    "position": 476
+  },
+  {
+    "artist": "Howlin' Wolf",
+    "album": "Moanin' in the Moonlight",
+    "position": 477
+  },
+  {
+    "artist": "The Kinks",
+    "album": "Something Else by the Kinks",
+    "position": 478
+  },
+  {
+    "artist": "Selena",
+    "album": "Amor Prohibido",
+    "position": 479
+  },
+  {
+    "artist": "Miranda Lambert",
+    "album": "The Weight of These Wings",
+    "position": 480
+  },
+  {
+    "artist": "Belle and Sebastian",
+    "album": "If You're Feeling Sinister",
+    "position": 481
+  },
+  {
+    "artist": "The Pharcyde",
+    "album": "Bizarre Ride II the Pharcyde",
+    "position": 482
+  },
+  {
+    "artist": "Muddy Waters",
+    "album": "The Anthology: 1947–1972",
+    "position": 483
+  },
+  {
+    "artist": "Lady Gaga",
+    "album": "Born This Way",
+    "position": 484
+  },
+  {
+    "artist": "Richard Thompson and Linda Thompson",
+    "album": "I Want to See the Bright Lights Tonight",
+    "position": 485
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Continuum",
+    "position": 486
+  },
+  {
+    "artist": "Black Flag",
+    "album": "Damaged",
+    "position": 487
+  },
+  {
+    "artist": "The Stooges",
+    "album": "The Stooges",
+    "position": 488
+  },
+  {
+    "artist": "Various artists",
+    "album": "Back to Mono (1958–1969)",
+    "position": 489
+  },
+  {
+    "artist": "Linda Ronstadt",
+    "album": "Heart Like a Wheel",
+    "position": 490
+  },
+  {
+    "artist": "Harry Styles",
+    "album": "Harry's House",
+    "position": 491
+  },
+  {
+    "artist": "Bonnie Raitt",
+    "album": "Nick of Time",
+    "position": 492
+  },
+  {
+    "artist": "Marvin Gaye",
+    "album": "Here, My Dear",
+    "position": 493
+  },
+  {
+    "artist": "The Ronettes",
+    "album": "Presenting the Fabulous Ronettes Featuring Veronica",
+    "position": 494
+  },
+  {
+    "artist": "Boyz II Men",
+    "album": "II",
+    "position": 495
+  },
+  {
+    "artist": "Shakira",
+    "album": "¿Dónde Están los Ladrones?",
+    "position": 496
+  },
+  {
+    "artist": "Various artists",
+    "album": "The Indestructible Beat of Soweto",
+    "position": 497
+  },
+  {
+    "artist": "Suicide",
+    "album": "Suicide",
+    "position": 498
+  },
+  {
+    "artist": "Rufus featuring Chaka Khan",
+    "album": "Ask Rufus",
+    "position": 499
+  },
+  {
+    "artist": "Arcade Fire",
+    "album": "Funeral",
+    "position": 500
+  }
+]
