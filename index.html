@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Next Album Suggestion</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+    />
+    <link rel="shortcut icon" href="favicon.svg" type="image/x-icon" />
+    <style>
+      /* simple skeleton effect while loading */
+      .skeleton {
+        background: linear-gradient(90deg, #eee 25%, #f7f7f7 37%, #eee 63%);
+        background-size: 400% 100%;
+        animation: shimmer 1.2s infinite;
+        color: transparent;
+      }
+      @keyframes shimmer {
+        0% {
+          background-position: 100% 0;
+        }
+        100% {
+          background-position: 0 0;
+        }
+      }
+      figure {
+        display: grid;
+        gap: 0.5rem;
+      }
+
+      .warning {
+        color: crimson;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="container" x-data="app()">
+      <article>
+        <header>
+          <h1 x-text="current?.album || 'Random album'"></h1>
+          <p>
+            <small
+              x-text="current ? (current.artist + ' • ' + current.position + ' / ' + charts[chartKey]?.label) : charts[chartKey]?.label"
+            ></small>
+          </p>
+          <label>
+            Chart
+            <select x-model="chartKey" @change="onChartChange">
+              <template
+                x-for="[key, meta] in Object.entries(charts)"
+                :key="key"
+              >
+                <option :value="key" x-text="meta.label"></option>
+              </template>
+            </select>
+          </label>
+        </header>
+
+        <main>
+          <figure>
+            <img
+              :src="coverUrl"
+              :alt="current ? (current.album + ' — ' + current.artist) : 'Album cover'"
+              style="
+                width: 100%;
+                max-width: 512px;
+                aspect-ratio: 1;
+                object-fit: cover;
+                border-radius: 0.5rem;
+              "
+              :class="{'skeleton': loading}"
+              @error="onImgError"
+            />
+            <figcaption x-show="!loading" x-text="caption"></figcaption>
+          </figure>
+        </main>
+
+        <footer>
+          <p>
+            <a
+              x-show="spotifyUrl"
+              :href="spotifyUrl"
+              target="_blank"
+              rel="noopener"
+              >Open on Spotify</a
+            >
+            <span x-show="spotifyUrl"> · </span>
+            <a :href="ytMusicUrl" target="_blank" rel="noopener"
+              >Search on YouTube Music</a
+            >
+          </p>
+          <button @click="refresh" :aria-busy="loading" :disabled="loading">
+            <span x-show="loading">Loading…</span>
+            <span x-show="!loading">Show another</span>
+          </button>
+        </footer>
+      </article>
+
+      <!-- History -->
+      <section>
+        <header><h2>History</h2></header>
+        <ul>
+          <template x-for="item in history" :key="item.key">
+            <li>
+              <span @click="copyEntry(item)">
+                <strong x-text="item.artist"></strong>
+                <span> — </span>
+                <span x-text="item.album"></span>
+              </span>
+
+              <br />
+              <small x-text="formatDate(item.date)"></small>
+              <span> · </span>
+              <small x-text="item.chartLabel"></small>
+              <span> · </span>
+
+              <a
+                role="link"
+                :href="item.spotifyUrl"
+                target="_blank"
+                rel="noopener"
+                class="secondary"
+                >Spotify</a
+              >
+              <span> · </span>
+              <a
+                role="link"
+                class="secondary warning"
+                @click="deleteEntry(item)"
+                rel="noopener"
+                title="Delete"
+              >
+                ×
+            </a>
+            </li>
+          </template>
+        </ul>
+        <p x-show="!history?.length"><small>No history yet.</small></p>
+        <p x-show="copiedKey" role="status"><small>Copied!</small></p>
+      </section>
+    </main>
+
+    <!-- Load scripts -->
+    <script
+      defer
+      src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"
+    ></script>
+    <script src="services/coverFinder.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
